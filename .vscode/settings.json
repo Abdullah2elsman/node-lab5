@@ -1,0 +1,12 @@
+{
+    "typescript.suggest.includeCompletionsForModuleExports": true,
+    "typescript.preferences.includePackageJsonAutoImports": "auto",
+    "javascript.suggest.autoImports": true,
+    "javascript.suggest.includeCompletionsForModuleExports": true,
+    "javascript.preferences.includePackageJsonAutoImports": "auto",
+    "typescript.suggest.autoImports": true,
+    "javascript.preferences.importModuleSpecifier": "relative",
+    "typescript.preferences.importModuleSpecifier": "relative",
+    "javascript.preferences.importModuleSpecifierEnding": "js",
+    "typescript.preferences.importModuleSpecifierEnding": "js"
+}
